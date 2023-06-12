@@ -60,7 +60,7 @@ header p {
 }
 
 header h1 {
-  font-weight: 800;
+  font-weight: 400;
   font-size: var(--fs-heading);
   line-height: 4.8rem;
 }
