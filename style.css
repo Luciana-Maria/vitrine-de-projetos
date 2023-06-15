@@ -166,7 +166,7 @@ main {
   
   main {
     grid-template-areas: "A B"
-    "C D";
+    "C D ";
   }
 
   main div:nth-child(1) {
@@ -184,4 +184,8 @@ main {
   main div:nth-child(4) {
     grid-area: D;
   }
-}
+  
+  }
+  
+
+
